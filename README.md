@@ -1,4 +1,3 @@
-v
 # Hey there, I'm Gavin! 👋
 
 ## A Bit About Me
@@ -35,4 +34,6 @@ v
 👆 Feel free to check out my GitHub stats above!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c0ntrab4nd&layout=compact)
+
+
 Thanks for visiting my corner of the internet. :D
