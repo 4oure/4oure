@@ -1,4 +1,4 @@
-
+v
 # Hey there, I'm Gavin! 👋
 
 ## A Bit About Me
@@ -33,5 +33,7 @@
 ![My Stats](https://github-readme-stats.vercel.app/api?username=c0ntrab4nd&show_icons=true&count_private=true)
 
 👆 Feel free to check out my GitHub stats above!
+![Your Name's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=c0ntrab4nd&theme=github)
 
+👆 Explore my GitHub activity graph!
 Thanks for visiting my corner of the internet. :D
