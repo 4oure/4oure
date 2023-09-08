@@ -33,7 +33,6 @@ v
 ![My Stats](https://github-readme-stats.vercel.app/api?username=c0ntrab4nd&show_icons=true&count_private=true)
 
 👆 Feel free to check out my GitHub stats above!
-![Gavin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=c0ntrab4nd&theme=github)
 
-👆 Explore my GitHub activity graph!
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c0ntrab4nd&layout=compact)
 Thanks for visiting my corner of the internet. :D
