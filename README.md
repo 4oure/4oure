@@ -18,7 +18,7 @@
 
 ## Let's Get in Touch
 - ✉️ Drop me a line: [Email](mailto:gdharmon@umd.edu)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/gavin-harmon-421a18213/))
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/gavin-harmon-421a18213/)
 - 🌐 Visit my [Instagram](https://www.instagram.com/thegavinharmon/)
 
 ## Fun Facts About Me
