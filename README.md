@@ -15,11 +15,11 @@
 ## Code with Me
 - 🤝 I'm always open to collaborations and contributions to open-source projects
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=c0ntrab4nd&show_icons=true&count_private=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=4oure&show_icons=true&count_private=true)
 
 👆 Feel free to check out my GitHub stats above!
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c0ntrab4nd&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4oure&layout=compact)
 
 
 Thanks for visiting my corner of the internet!
